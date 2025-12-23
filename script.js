@@ -351,9 +351,9 @@ theme.addEventListener('click',()=>{
     flag=1
     }else if(flag==1){
         rootElement.style.setProperty('--pri','#000000')
-    rootElement.style.setProperty('--sec','#1DCD9F')
-    rootElement.style.setProperty('--tri1','#222222')
-    rootElement.style.setProperty('--tri2',' #169976')
+    rootElement.style.setProperty('--sec','#0C2B4E')
+    rootElement.style.setProperty('--tri1','#1A3D64')
+    rootElement.style.setProperty('--tri2',' #1D546C')
     flag=2
     }else if(flag==2){
          rootElement.style.setProperty('--pri','#FCDEC0')
